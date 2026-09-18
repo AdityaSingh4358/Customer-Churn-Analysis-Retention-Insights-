@@ -36,6 +36,15 @@ In this project, I acted as a data analyst for such a company. I looked at custo
 3. **Karnataka has the highest number of churned customers,** with a spike in **September**. This is worth investigating.
 4. **Unhappy support experiences lead to cancellations.** Customers whose complaints were escalated are more likely to leave.
 
+<img width="1393" height="475" alt="State wise churn rate" src="https://github.com/user-attachments/assets/16f8989c-dc3a-4a0d-8c7f-0c8b0c32e94e" />
+<img width="843" height="477" alt="Churn rate by plan type" src="https://github.com/user-attachments/assets/01b56e0a-34f7-47b6-a40c-5c04ef461336" />
+<img width="857" height="367" alt="Monthly churned customers" src="https://github.com/user-attachments/assets/2f762762-95bc-4d23-9559-bb5c0692e342" />
+<img width="858" height="630" alt="Heatmap_Correlation_Matrix" src="https://github.com/user-attachments/assets/0118cbb5-9ff3-4aff-ade1-1901bfff6bf9" />
+
+
+
+
+
 ### ✅ What the company should do
 
 - Encourage monthly subscribers to move to **annual plans** (discounts or offers).
